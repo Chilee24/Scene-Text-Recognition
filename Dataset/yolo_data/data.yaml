@@ -1,0 +1,5 @@
+train: C:/Users/hieuh/Downloads/Project/Scene-Text-Recognition/Dataset/yolo_data/train/images
+val: C:/Users/hieuh/Downloads/Project/Scene-Text-Recognition/Dataset/yolo_data/val/images
+test: C:/Users/hieuh/Downloads/Project/Scene-Text-Recognition/Dataset/yolo_data/test/images
+nc: 1
+names: ['text']
